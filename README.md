@@ -1,10 +1,9 @@
-### hello! 👋
- 
-<div align="center">
- 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=catgoesmeowo&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
-####  :wave: Welcome my github profile !
 
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=catgoesmeowo&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+####  :wave: hello ^owo^~~! 👋
+####  :wave: Welcome my github profile !
   
  <br/>
  <br/>
@@ -35,4 +34,9 @@
   <br/>
 
 [![Cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=catgoesmeowo&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/catgoesmeowo/github-readme-stats)
+<br/>
+   <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catgoesmeowo&langs_count=8)](https://github.com/catgoesmeowo/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcatgoesmeowo%2Fhit-counter&count_bg=%23EFA3FF&title_bg=%23D5A9A9&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
