@@ -33,7 +33,7 @@
 #### :pencil2: Study log
  
   <br/>
- [![Top Langs](https://velog-readme-stats.vercel.app/api/badge?name=catgoesmeowo)](https://velog.io/@catgoesmeowo) 
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=catgoesmeowo)](https://github.com/eungyeole/velog-readme-stats)
+ (https://velog-readme-stats.vercel.app/api/badge?name=catgoesmeowo)](https://velog.io/@catgoesmeowo) 
+ (https://velog-readme-stats.vercel.app/api?name=catgoesmeowo)](https://github.com/eungyeole/velog-readme-stats)
 
 </div>
