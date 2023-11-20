@@ -33,7 +33,6 @@
 #### :pencil2: Study log
  
   <br/>
- (https://velog-readme-stats.vercel.app/api/badge?name=catgoesmeowo)](https://velog.io/@catgoesmeowo) 
- (https://velog-readme-stats.vercel.app/api?name=catgoesmeowo)](https://github.com/eungyeole/velog-readme-stats)
+
 
 </div>
